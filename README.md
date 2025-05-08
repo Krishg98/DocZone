@@ -8,4 +8,9 @@ it gives individual dashboard to each and every doctor<br>
 
 <br>
 
-to open this project: Extract Zip File > Copy Folder in htdocs > import database in phpmyadmin with name damsmsdb > run : localhost/doczone/index.php
+to open this project<br>
+
+Extract Zip File 
+<br>Copy Folder in htdocs
+<br>import database in phpmyadmin with name damsmsdb 
+<br>run : localhost/doczone/dams/index.php
